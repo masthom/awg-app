@@ -39,6 +39,14 @@
             "location": "A-Wue, UEQ 493.",
             "hasDescription": false,
             "linkTo": "OP25_SOURCE_NOT_AVAILABLE"
+        },
+        {
+            "siglum": "[E<sup>F1–F2</sup>]",
+            "siglumAddendum": "",
+            "type": "Fotokopien von <a (click)=\"ref.openModal('OP25_SOURCE_NOT_AVAILABLE')\"><strong>E</strong></a>.",
+            "location": "Verschollen.",
+            "hasDescription": false,
+            "linkTo": "OP25_SOURCE_NOT_AVAILABLE"
         }
     ]
 }
