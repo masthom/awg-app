@@ -10,7 +10,6 @@
                 "desc": [
                     "17 Seiten in <strong>Skizzenbuch 3</strong>: Bl. 26<sup>v</sup>–31<sup>r</sup> (S. <em>51</em>–<em>60</em>), Bl. 32<sup>r</sup> (S. <em>62</em>) und Bl. 33<sup>v</sup>–36<sup>r</sup> (S. <em>65</em>–<em>70</em>)."
                 ],
-<<<<<<< HEAD
                 "writingMaterial": "Notenpapier, quer 270 × 335 mm, 16 Systeme, Firmenzeichen <em>J. E. &amp; Co.</em> [diagonal ansteigend auf schildförmiger Papierrolle, rechts von einem Löwen gehalten, links und unten Blattgirlande] | <em>No. 15 | 16 linig.</em> recto auf Bl. 26–36 unten links (Bl. 26–36).",
                 "writingInstruments": {
                     "main": "Bleistift",
@@ -19,12 +18,6 @@
                         "roter Buntstift",
                         "blaue Tinte"
                     ]
-=======
-                "writingMaterialString": "Notenpapier, quer 270 × 335 mm, 16 Systeme, Firmenzeichen <em>J. E. &amp; Co.</em> [diagonal ansteigend auf schildförmiger Papierrolle, rechts von einem Löwen gehalten, links und unten Blattgirlande] | <em>No. 15 | 16 linig.</em> recto auf Bl. 26–36 unten links (Bl. 26–36).",
-                "writingInstruments": {
-                    "main": "Bleistift",
-                    "secondary": ["grüner Buntstift", "roter Buntstift", "blaue Tinte"]
->>>>>>> develop
                 },
                 "title": "<em>Texte von H. J.</em> auf Bl. 26<sup>v</sup> oben Mitte;<br /><em>„Das dunkle Herz“</em> auf Bl. 34<sup>r</sup> oben links.",
                 "date": "<em>31. V. 33</em> [unten eingerahmt] auf Bl. 26<sup>v</sup> System 12–13 Mitte;<br /><em>1. IV. 33</em> auf Bl. 27<sup>r</sup> oben links;<br />[x]<em>. IV. 33.</em> auf Bl. 27<sup>r</sup> System 9 links;<br /><em>Maria Enzersdorf | 14. VII. 33</em> auf Bl. 28<sup>v</sup> System 3 (nach <strong>M 312 Sk4</strong> T. 30);<br /><em>26. VII. 33</em> auf Bl. 29<sup>v</sup> oben links;<br /><em>18. VIII. 33</em> auf Bl. 32<sup>r</sup> System 6–7 (nach <strong>M 313 Sk4</strong> T. 30C);<br /><em>3. I. 1934</em> auf Bl. 34<sup>r</sup> oben links;<br /><em>5. I. 34</em> auf Bl. 34<sup>r</sup> System 7 T. 1;<br /><em>15. III. 34</em> auf Bl. 35<sup>v</sup> System 14–15 rechts (nach <strong>M 314 Sk3</strong> T. 50).",
@@ -35,11 +28,7 @@
                 "content": [
                     {
                         "item": "M 312 Sk4",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -214,11 +203,7 @@
                     },
                     {
                         "item": "M 312 Sk1",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk1",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -239,11 +224,7 @@
                     },
                     {
                         "item": "M 312 Sk1.1",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk1_1",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -254,7 +235,6 @@
                                     [
                                         {
                                             "system": "1b",
-<<<<<<< HEAD
                                             "measure": "",
                                             "linkTo": "",
                                             "row": {
@@ -262,12 +242,6 @@
                                                 "rowBase": "g",
                                                 "rowNumber": ""
                                             }
-=======
-                                            "systemDescription": "Zwölftonreihenform G<sub>g</sub>",
-                                            "measure": "",
-                                            "linkTo": "",
-                                            "row": {}
->>>>>>> develop
                                         }
                                     ]
                                 ]
@@ -276,11 +250,7 @@
                     },
                     {
                         "item": "M 312 Sk2",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk2",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Reihentabelle zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -404,11 +374,7 @@
                     },
                     {
                         "item": "M 312 Sk3",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk3",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -429,11 +395,7 @@
                     },
                     {
                         "item": "M 312 Sk3.1",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk3_1",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -454,11 +416,7 @@
                     },
                     {
                         "item": "M 312 Sk3.2",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk3_2",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -479,11 +437,7 @@
                     },
                     {
                         "item": "M 312 Sk3.3",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk3_3",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -504,11 +458,7 @@
                     },
                     {
                         "item": "M 312 Sk4.8",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4_8",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -529,11 +479,7 @@
                     },
                     {
                         "item": "M 312 Sk4.5",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4_5",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -554,11 +500,7 @@
                     },
                     {
                         "item": "M 312 Sk4.6",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4_6",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -579,11 +521,7 @@
                     },
                     {
                         "item": "M 312 Sk4.7",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4_7",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -604,11 +542,7 @@
                     },
                     {
                         "item": "M 312 Sk4.1",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4_1",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -629,11 +563,7 @@
                     },
                     {
                         "item": "M 312 Sk4.2",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4_2",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -654,11 +584,7 @@
                     },
                     {
                         "item": "M 312 Sk4.4",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4_4",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -679,11 +605,7 @@
                     },
                     {
                         "item": "M 312 Sk4.3",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4_3",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -704,11 +626,7 @@
                     },
                     {
                         "item": "M 312 Sk4.9",
-<<<<<<< HEAD
                         "itemLinkTo": "M_312_Sk4_9",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -729,11 +647,7 @@
                     },
                     {
                         "item": "M 313 Sk1",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk1",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -754,11 +668,7 @@
                     },
                     {
                         "item": "M 313 Sk2",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk2",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -786,11 +696,7 @@
                     },
                     {
                         "item": "M 313 Sk4.1",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk4_1",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -811,11 +717,7 @@
                     },
                     {
                         "item": "M 313 Sk3",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk3",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -857,11 +759,7 @@
                     },
                     {
                         "item": "M 313 Sk4.3",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk4_3",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -882,11 +780,7 @@
                     },
                     {
                         "item": "M 313 Sk3.1",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk3_1",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -907,11 +801,7 @@
                     },
                     {
                         "item": "M 313 Sk3.2",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk3_2",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -932,11 +822,7 @@
                     },
                     {
                         "item": "M 313 Sk4.2",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk4_2",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -957,11 +843,7 @@
                     },
                     {
                         "item": "M 313 Sk4",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk4",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -1066,11 +948,7 @@
                     },
                     {
                         "item": "M 313 Sk4.4",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk4_4",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -1091,11 +969,7 @@
                     },
                     {
                         "item": "M 313 Sk4.5",
-<<<<<<< HEAD
                         "itemLinkTo": "M_313_Sk4_5",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -1116,11 +990,7 @@
                     },
                     {
                         "item": "M 316 Sk##",
-<<<<<<< HEAD
                         "itemLinkTo": "M_316_Sk##",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu Konzert für neun Instrumente op. 24/1 M 316)",
                         "folios": [
                             {
@@ -1141,11 +1011,7 @@
                     },
                     {
                         "item": "M 314 Sk3.2",
-<<<<<<< HEAD
                         "itemLinkTo": "M_314_Sk3_2",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1166,11 +1032,7 @@
                     },
                     {
                         "item": "M 314 Sk1",
-<<<<<<< HEAD
                         "itemLinkTo": "M_314_Sk1",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1191,11 +1053,7 @@
                     },
                     {
                         "item": "M 314 Sk2",
-<<<<<<< HEAD
                         "itemLinkTo": "M_314_Sk2",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1216,11 +1074,7 @@
                     },
                     {
                         "item": "M 314 Sk3",
-<<<<<<< HEAD
                         "itemLinkTo": "M_314_Sk3",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1409,11 +1263,7 @@
                     },
                     {
                         "item": "M 314 Sk3.1",
-<<<<<<< HEAD
                         "itemLinkTo": "M_314_Sk3_1",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1434,11 +1284,7 @@
                     },
                     {
                         "item": "M 314 Sk3.3",
-<<<<<<< HEAD
                         "itemLinkTo": "M_314_Sk3_3",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1459,11 +1305,7 @@
                     },
                     {
                         "item": "M 314 Sk3.5",
-<<<<<<< HEAD
                         "itemLinkTo": "M_314_Sk3_5",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1484,11 +1326,7 @@
                     },
                     {
                         "item": "M 314 Sk3.6",
-<<<<<<< HEAD
                         "itemLinkTo": "M_314_Sk3_6",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1509,11 +1347,7 @@
                     },
                     {
                         "item": "M 314 Sk3.4",
-<<<<<<< HEAD
                         "itemLinkTo": "M_314_Sk3_4",
-=======
-                        "itemLinkTo": {},
->>>>>>> develop
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -2240,7 +2074,7 @@
             "location": "",
             "description": {
                 "desc": [
-                    "<small class=\"text-muted\">[Die Beschreibung der Quellen <strong>C–D</strong> einschließlich der darin gegebenenfalls enthaltenen Korrekturen erfolgt im Zusammenhang der vollständigen Edition der <em>Drei Gesänge aus</em> Viae Inviae <em>von Hildegard Jone</em> op. 23 in AWG I/5.]</small>"
+                    "<small class=\"text-muted\">[Die Beschreibung der Quellen <strong>A</strong> sowie <strong>C–D</strong> einschließlich der darin gegebenenfalls enthaltenen Korrekturen erfolgt im Zusammenhang der vollständigen Edition der <em>Drei Gesänge aus</em> Viae Inviae <em>von Hildegard Jone</em> op. 23 in AWG I/5.]</small>"
                 ]
             }
         }
