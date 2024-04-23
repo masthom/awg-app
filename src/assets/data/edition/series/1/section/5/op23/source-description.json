@@ -10,14 +10,10 @@
                 "desc": [
                     "17 Seiten in <strong>Skizzenbuch 3</strong>: Bl. 26<sup>v</sup>–31<sup>r</sup> (S. <em>51</em>–<em>60</em>), Bl. 32<sup>r</sup> (S. <em>62</em>) und Bl. 33<sup>v</sup>–36<sup>r</sup> (S. <em>65</em>–<em>70</em>)."
                 ],
-                "writingMaterial": "Notenpapier, quer 270 × 335 mm, 16 Systeme, Firmenzeichen <em>J. E. &amp; Co.</em> [diagonal ansteigend auf schildförmiger Papierrolle, rechts von einem Löwen gehalten, links und unten Blattgirlande] | <em>No. 15 | 16 linig.</em> recto auf Bl. 26–36 unten links (Bl. 26–36).",
+                "writingMaterialString": "Notenpapier, quer 270 × 335 mm, 16 Systeme, Firmenzeichen <em>J. E. &amp; Co.</em> [diagonal ansteigend auf schildförmiger Papierrolle, rechts von einem Löwen gehalten, links und unten Blattgirlande] | <em>No. 15 | 16 linig.</em> recto auf Bl. 26–36 unten links (Bl. 26–36).",
                 "writingInstruments": {
                     "main": "Bleistift",
-                    "secondary": [
-                        "grüner Buntstift",
-                        "roter Buntstift",
-                        "blaue Tinte"
-                    ]
+                    "secondary": ["grüner Buntstift", "roter Buntstift", "blaue Tinte"]
                 },
                 "title": "<em>Texte von H. J.</em> auf Bl. 26<sup>v</sup> oben Mitte;<br /><em>„Das dunkle Herz“</em> auf Bl. 34<sup>r</sup> oben links.",
                 "date": "<em>31. V. 33</em> [unten eingerahmt] auf Bl. 26<sup>v</sup> System 12–13 Mitte;<br /><em>1. IV. 33</em> auf Bl. 27<sup>r</sup> oben links;<br />[x]<em>. IV. 33.</em> auf Bl. 27<sup>r</sup> System 9 links;<br /><em>Maria Enzersdorf | 14. VII. 33</em> auf Bl. 28<sup>v</sup> System 3 (nach <strong>M 312 Sk4</strong> T. 30);<br /><em>26. VII. 33</em> auf Bl. 29<sup>v</sup> oben links;<br /><em>18. VIII. 33</em> auf Bl. 32<sup>r</sup> System 6–7 (nach <strong>M 313 Sk4</strong> T. 30C);<br /><em>3. I. 1934</em> auf Bl. 34<sup>r</sup> oben links;<br /><em>5. I. 34</em> auf Bl. 34<sup>r</sup> System 7 T. 1;<br /><em>15. III. 34</em> auf Bl. 35<sup>v</sup> System 14–15 rechts (nach <strong>M 314 Sk3</strong> T. 50).",
@@ -28,7 +24,7 @@
                 "content": [
                     {
                         "item": "M 312 Sk4",
-                        "itemLinkTo": "M_312_Sk4",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -203,7 +199,7 @@
                     },
                     {
                         "item": "M 312 Sk1",
-                        "itemLinkTo": "M_312_Sk1",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -224,7 +220,7 @@
                     },
                     {
                         "item": "M 312 Sk1.1",
-                        "itemLinkTo": "M_312_Sk1_1",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -235,13 +231,10 @@
                                     [
                                         {
                                             "system": "1b",
+                                            "systemDescription": "Zwölftonreihenform G<sub>g</sub>",
                                             "measure": "",
                                             "linkTo": "",
-                                            "row": {
-                                                "rowType": "Zwöftonreihenform G",
-                                                "rowBase": "g",
-                                                "rowNumber": ""
-                                            }
+                                            "row": {}
                                         }
                                     ]
                                 ]
@@ -250,7 +243,7 @@
                     },
                     {
                         "item": "M 312 Sk2",
-                        "itemLinkTo": "M_312_Sk2",
+                        "itemLinkTo": {},
                         "itemDescription": "(Reihentabelle zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -374,7 +367,7 @@
                     },
                     {
                         "item": "M 312 Sk3",
-                        "itemLinkTo": "M_312_Sk3",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -395,7 +388,7 @@
                     },
                     {
                         "item": "M 312 Sk3.1",
-                        "itemLinkTo": "M_312_Sk3_1",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -416,7 +409,7 @@
                     },
                     {
                         "item": "M 312 Sk3.2",
-                        "itemLinkTo": "M_312_Sk3_2",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -437,7 +430,7 @@
                     },
                     {
                         "item": "M 312 Sk3.3",
-                        "itemLinkTo": "M_312_Sk3_3",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -458,7 +451,7 @@
                     },
                     {
                         "item": "M 312 Sk4.8",
-                        "itemLinkTo": "M_312_Sk4_8",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -479,7 +472,7 @@
                     },
                     {
                         "item": "M 312 Sk4.5",
-                        "itemLinkTo": "M_312_Sk4_5",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -500,7 +493,7 @@
                     },
                     {
                         "item": "M 312 Sk4.6",
-                        "itemLinkTo": "M_312_Sk4_6",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -521,7 +514,7 @@
                     },
                     {
                         "item": "M 312 Sk4.7",
-                        "itemLinkTo": "M_312_Sk4_7",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -542,7 +535,7 @@
                     },
                     {
                         "item": "M 312 Sk4.1",
-                        "itemLinkTo": "M_312_Sk4_1",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -563,7 +556,7 @@
                     },
                     {
                         "item": "M 312 Sk4.2",
-                        "itemLinkTo": "M_312_Sk4_2",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -584,7 +577,7 @@
                     },
                     {
                         "item": "M 312 Sk4.4",
-                        "itemLinkTo": "M_312_Sk4_4",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -605,7 +598,7 @@
                     },
                     {
                         "item": "M 312 Sk4.3",
-                        "itemLinkTo": "M_312_Sk4_3",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -626,7 +619,7 @@
                     },
                     {
                         "item": "M 312 Sk4.9",
-                        "itemLinkTo": "M_312_Sk4_9",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Herr Jesus mein“ M 312)",
                         "folios": [
                             {
@@ -647,7 +640,7 @@
                     },
                     {
                         "item": "M 313 Sk1",
-                        "itemLinkTo": "M_313_Sk1",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -668,7 +661,7 @@
                     },
                     {
                         "item": "M 313 Sk2",
-                        "itemLinkTo": "M_313_Sk2",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -696,7 +689,7 @@
                     },
                     {
                         "item": "M 313 Sk4.1",
-                        "itemLinkTo": "M_313_Sk4_1",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -717,7 +710,7 @@
                     },
                     {
                         "item": "M 313 Sk3",
-                        "itemLinkTo": "M_313_Sk3",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -759,7 +752,7 @@
                     },
                     {
                         "item": "M 313 Sk4.3",
-                        "itemLinkTo": "M_313_Sk4_3",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -780,7 +773,7 @@
                     },
                     {
                         "item": "M 313 Sk3.1",
-                        "itemLinkTo": "M_313_Sk3_1",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -801,7 +794,7 @@
                     },
                     {
                         "item": "M 313 Sk3.2",
-                        "itemLinkTo": "M_313_Sk3_2",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -822,7 +815,7 @@
                     },
                     {
                         "item": "M 313 Sk4.2",
-                        "itemLinkTo": "M_313_Sk4_2",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -843,7 +836,7 @@
                     },
                     {
                         "item": "M 313 Sk4",
-                        "itemLinkTo": "M_313_Sk4",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -948,7 +941,7 @@
                     },
                     {
                         "item": "M 313 Sk4.4",
-                        "itemLinkTo": "M_313_Sk4_4",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -969,7 +962,7 @@
                     },
                     {
                         "item": "M 313 Sk4.5",
-                        "itemLinkTo": "M_313_Sk4_5",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Es stürzt aus Höhen Frische“ M 313)",
                         "folios": [
                             {
@@ -990,7 +983,7 @@
                     },
                     {
                         "item": "M 316 Sk##",
-                        "itemLinkTo": "M_316_Sk##",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu Konzert für neun Instrumente op. 24/1 M 316)",
                         "folios": [
                             {
@@ -1011,7 +1004,7 @@
                     },
                     {
                         "item": "M 314 Sk3.2",
-                        "itemLinkTo": "M_314_Sk3_2",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1032,7 +1025,7 @@
                     },
                     {
                         "item": "M 314 Sk1",
-                        "itemLinkTo": "M_314_Sk1",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1053,7 +1046,7 @@
                     },
                     {
                         "item": "M 314 Sk2",
-                        "itemLinkTo": "M_314_Sk2",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1074,7 +1067,7 @@
                     },
                     {
                         "item": "M 314 Sk3",
-                        "itemLinkTo": "M_314_Sk3",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1263,7 +1256,7 @@
                     },
                     {
                         "item": "M 314 Sk3.1",
-                        "itemLinkTo": "M_314_Sk3_1",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1284,7 +1277,7 @@
                     },
                     {
                         "item": "M 314 Sk3.3",
-                        "itemLinkTo": "M_314_Sk3_3",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1305,7 +1298,7 @@
                     },
                     {
                         "item": "M 314 Sk3.5",
-                        "itemLinkTo": "M_314_Sk3_5",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1326,7 +1319,7 @@
                     },
                     {
                         "item": "M 314 Sk3.6",
-                        "itemLinkTo": "M_314_Sk3_6",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1347,7 +1340,7 @@
                     },
                     {
                         "item": "M 314 Sk3.4",
-                        "itemLinkTo": "M_314_Sk3_4",
+                        "itemLinkTo": {},
                         "itemDescription": "(Skizze zu „Das dunkle Herz“ M 314)",
                         "folios": [
                             {
@@ -1539,72 +1532,47 @@
             "id": "source_C",
             "siglum": "C",
             "siglumAddendum": "",
-            "type": "US-NYpm, Dept. of Music Manuscripts and Books, Robert Owen Lehman Collection, W376.G389 / 115908.",
-            "location": "10 Blätter (Bl. 1–10): 1 Blatt (Bl. 1), 3 aufeinander gelegte Bögen (Bl. 2/3, 4/5, 6/7), 3 Blätter (Bl. 8–10). Bl. 5<sup>v</sup>, 10<sup>v</sup> unbeschriftet. Rissspuren am linken Rand von Bl. 1, 8–10: von Bögen abgetrennt. (Vermutlich bildeten Bl. 1 und 10 sowie Bl. 8 und 9 gemeinsame Bögen.) Risse am Falz unten bei Bl. 2/3, 4/5, 6/7.",
+            "type": "Autograph von <em>Drei Gesänge aus</em> Viae Inviae <em>von Hildegard Jone</em> op. 23.",
+            "location": "US-NYpm, Dept. of Music Manuscripts and Books, Robert Owen Lehman Collection, W376.G389 / 115908.",
             "description": {
                 "desc": [
-                    "Beschreibstoff: Notenpapier, 12 Systeme, Format: hoch 336 × 267 mm, Firmenzeichen: <em>J. E. &amp; Co.</em> [diagonal ansteigend auf schildförmiger Papierrolle, rechts von einem Löwen gehalten, links und unten Blattgirlande] | <em>Protokoll. Schutzmarke | No. 2 | 12 linig.</em> auf Bl. 2<sup>r</sup>, 4<sup>r</sup>, 6<sup>r</sup>, 8<sup>r</sup>, 10<sup>r</sup> unten links (Bl. 1–10)."
+                    "10 Blätter (Bl. 1–10): 1 Blatt (Bl. 1), 3 aufeinander gelegte Bögen (Bl. 2/3, 4/5, 6/7), 3 Blätter (Bl. 8–10). Bl. 5<sup>v</sup>, 10<sup>v</sup> unbeschriftet. Rissspuren am linken Rand von Bl. 1, 8–10: von Bögen abgetrennt. (Vermutlich bildeten Bl. 1 und 10 sowie Bl. 8 und 9 gemeinsame Bögen.) Risse am Falz unten bei Bl. 2/3, 4/5, 6/7."
                 ],
-                "writingMaterial": "Notenpapier, 12 Systeme, Format: hoch 336 × 267 mm, Firmenzeichen: <em>J. E. &amp; Co.</em> [diagonal ansteigend auf schildförmiger Papierrolle, rechts von einem Löwen gehalten, links und unten Blattgirlande] | <em>Protokoll. Schutzmarke | No. 2 | 12 linig.</em> auf Bl. 2<sup>r</sup>, 4<sup>r</sup>, 6<sup>r</sup>, 8<sup>r</sup>, 10<sup>r</sup> unten links (Bl. 1–10).",
+                "writingMaterialString": "Notenpapier, 12 Systeme, Format: hoch 336 × 267 mm, Firmenzeichen: <em>J. E. &amp; Co.</em> [diagonal ansteigend auf schildförmiger Papierrolle, rechts von einem Löwen gehalten, links und unten Blattgirlande] | <em>Protokoll. Schutzmarke | No. 2 | 12 linig.</em> auf Bl. 2<sup>r</sup>, 4<sup>r</sup>, 6<sup>r</sup>, 8<sup>r</sup>, 10<sup>r</sup> unten links (Bl. 1–10).",
                 "writingInstruments": {
                     "main": "schwarze Tinte",
-                    "secondary": [
-                        "Bleistift",
-                        "blauer und roter Buntstift",
-                        "violetter Stempelabdruck"
-                    ]
+                    "secondary": ["Bleistift", "blauer und roter Buntstift", "violetter Stempelabdruck"]
                 },
-                "title": "<em>Anton Webern | </em><sup>?</sup><em><s>Drei</s></em><sup>?</sup><em> Drei Gesänge | op. 23 | aus | Viae inviae | von | Hildegard Jone</em> auf Bl. 1<sup>r</sup> System 3–10 Mitte, <sup>?</sup><em><s>Drei</s></em><sup>?</sup> rasiert;<br /><em>I.</em> [Mitte] | <em>Anton Webern, op. 23</em> [rechts] auf Bl. 2<sup>r</sup> oben bis System 1;<br /><em>II.</em> auf Bl. 6<sup>r</sup> oben Mitte;<br /><em>III.</em> auf Bl. 8<sup>r</sup> oben Mitte.",
+                "title": "<em>Anton Webern |</em> <sup>?</sup><em><s>Drei</s></em><sup>?</sup> <em>Drei Gesänge | op. 23 | aus | Viae inviae | von | Hildegard Jone</em> auf Bl. 1<sup>r</sup> System 3–10 Mitte, <sup>?</sup><em><s>Drei</s></em><sup>?</sup> rasiert;<br /><em>I.</em> [Mitte] | <em>Anton Webern, op. 23</em> [rechts] auf Bl. 2<sup>r</sup> oben bis System 1;<br /><em>II.</em> auf Bl. 6<sup>r</sup> oben Mitte;<br /><em>III.</em> auf Bl. 8<sup>r</sup> oben Mitte.",
                 "date": "",
-                "pagination": "<em>- 1-</em> bis <em>- 7 -</em>, <em>- 8 -</em> bis <em>- 12 -</em>, <em>- <s>13</s> - -</em> bis <em>- <s>14</s> - -</em>, <em>- 15 -</em> bis <em>- 16 -</em> auf Bl. 2<sup>r</sup>–5<sup>r</sup>, 6<sup>r</sup>–10<sup>r</sup> mit schwarzer Tinte.",
-                "measureNumbers": "",
+                "pagination": "<em>- 1 -</em> bis <em>- 7 -</em>, <em>- 8 -</em> bis <em>- 12 -</em>, <em>- <s>13</s>&nbsp;<s>-</s> -</em> bis <em>- <s>14</s>&nbsp;<s>-</s> -</em>, <em>- 15 -</em> bis <em>- 16 -</em> auf Bl. 2<sup>r</sup>–5<sup>r</sup>, 6<sup>r</sup>–10<sup>r</sup> mit schwarzer Tinte.",
+                "measureNumbers": "Taktzahlen zu jedem Takt in I (<em>1</em> bis <em>50</em>), in II (<em>1</em> bis <em>30</em>) und in III (<em>1</em> bis <em>28</em>).",
                 "instrumentation": "",
-                "annotations": "<em>ARCHIV</em> | [darum im Kreis:] <em>DER UNIVERSAL-EDITION A. G. *</em> [alles in einem Kreis] auf Bl. 1–10 recto unten rechts mit violettem Stempelabdruck;<br /><em>10255</em> auf Bl. 1<sup>r</sup> unten Mitte mit Bleistift (nicht identifizierte Hs.);<br />Dispositionsziffern in I nach T. 3, 6, 8, 10, 12, 14, 16, 18, 20, 23, 26, 29, 30 (<em><s>1</s></em> radiert), 32, 34 (<em><s>2</s></em> radiert), 35, 38, 41, 42 (<em><s>1</s></em> radiert), 44, 46 (<em><s>2</s></em> radiert), 47, 50;<br />in II nach T. 4 (<em><s>1</s></em> radiert), 5, 7 (<em><s>2</s></em> radiert), 9, 11 (<em>1</em>), 12, 13 (<em><s>2</s></em> radiert), 16, 19 (<em>4</em>), 20, 21 (<em>1</em>), 22, 23 (<em><s>2</s></em> radiert), 25, 26 (<em>3</em>), 30;",
+                "annotations": "<em>ARCHIV</em> | [darum im Kreis:] <em>DER UNIVERSAL-EDITION A. G. *</em> [alles in einem Kreis] auf Bl. 1–10 recto unten rechts mit violettem Stempelabdruck;<br /><em>10255</em> auf Bl. 1<sup>r</sup> unten Mitte mit Bleistift (nicht identifizierte Hs.);<br />Dispositionsziffern in I nach T. 3, 6, 8, 10, 12, 14, 16, 18, 20, 23, 26, 29, 30 (<em><s>1</s></em> radiert), 32, 34 (<em><s>2</s></em> radiert), 35, 38, 41, 42 (<em><s>1</s></em> radiert), 44, 46 (<em><s>2</s></em> radiert), 47, 50;<br />in II nach T. 4 (<em><s>1</s></em> radiert), 5, 7 (<em><s>2</s></em> radiert), 9, 11 (<em>1</em>), 12, 13 (<em><s>2</s></em> radiert), 16, 19 (<em>4</em>), 20, 21 (<em>1</em>), 22, 23 (<em><s>2</s></em> radiert), 25, 26 (<em>3</em>), 30;<br /> in III nach T. 2 (<em>1</em>), 3, 4 (<em>2</em>), 5, 6 (<em>3</em>), 8, 10 (<em>2</em>), 11, 12 (<em>3</em>), 13, 14 (<em>4</em>), 15 (<em><s>4</s></em> radiert), 16, 17 (<em><s>1</s></em> radiert), 18 (<em>2</em>), 19, 20 (<em>3</em>), 21, 22 (<em>4</em>), 23, 24 (<em>1</em>), 26, 28<br /> mit Bleistift oder blauem Buntstift (nicht identifizierte Hs.).",
                 "content": [
                     {
-                        "item": "Autograph von Drei Gesänge aus Viae Inviae von Hildegard Jone op. 23",
-                        "itemLinkTo": "Autograph_von_Drei_Gesänge_aus_Viae_Inviae_von_Hildegard_Jone_op_ 23",
-                        "itemDescription": "(<strong>G<sup>a</sup></strong>)",
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "Autograph von <em>Drei Gesänge aus</em> Viae Inviae <em>von Hildegard Jone</em> op. 23",
                         "folios": [
                             {
                                 "folio": "1r",
                                 "folioLinkTo": "",
-                                "folioDescription": "",
-                                "systemGroups": [
-                                    [
-                                        {
-                                            "system": "",
-                                            "measure": "Titelseite",
-                                            "linkTo": ""
-                                        }
-                                    ]
-                                ]
+                                "folioDescription": "Titelseite.",
+                                "systemGroups": []
                             },
                             {
                                 "folio": "1v",
                                 "folioLinkTo": "",
-                                "folioDescription": "",
-                                "systemGroups": [
-                                    [
-                                        {
-                                            "system": "",
-                                            "measure": "Widmung",
-                                            "linkTo": "",
-                                            "row": {
-                                                "rowType": "",
-                                                "rowBase": "",
-                                                "rowNumber": ""
-                                            }
-                                        }
-                                    ]
-                                ]
+                                "folioDescription": "Widmung.",
+                                "systemGroups": []
                             }
                         ]
                     },
                     {
-                        "item": "I „Das dunkle Herz“ M 314: einzige Textfassung",
-                        "itemLinkTo": "I_„Das_dunkle_Herz“_M 314:_einzige_Textfassung",
-                        "itemDescription": "",
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "I „Das dunkle Herz“ M 314: einzige Textfassung",
                         "folios": [
                             {
                                 "folio": "2r",
@@ -1798,9 +1766,9 @@
                         ]
                     },
                     {
-                        "item": "II „Es stürzt aus Höhen Frische“ M 313: einzige Textfassung",
-                        "itemLinkTo": "II_„Es_stürzt_aus_Höhen_Frische“_M 313:_einzige_Textfassung",
-                        "itemDescription": "",
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "II „Es stürzt aus Höhen Frische“ M 313: einzige Textfassung",
                         "folios": [
                             {
                                 "folio": "6r",
@@ -1917,9 +1885,9 @@
                         ]
                     },
                     {
-                        "item": "III „Herr Jesus mein“ M 312: einzige Textfassung",
-                        "itemLinkTo": "III_„Herr_Jesus_mein“_M 312:_einzige_Textfassung",
-                        "itemDescription": "",
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "III „Herr Jesus mein“ M 312: einzige Textfassung",
                         "folios": [
                             {
                                 "folio": "8r",
@@ -2067,6 +2035,441 @@
             }
         },
         {
+            "id": "source_D",
+            "siglum": "D",
+            "siglumAddendum": "",
+            "type": "Druck von <em>Drei Gesänge aus </em>Viae Inviae<em> von Hildegard Jone</em> op. 23.",
+            "location": "Wien: Universal Edition, 1936.",
+            "description": {
+                "desc": [
+                    "12 Seiten (S. [1]–12): 3 klammergeheftete Bögen in Umschlag (S. [a–d]), Format: hoch 309 × 230 mm. Innere Seiten des Umschlags (S. [b] und [c]) nicht bedruckt. S. [d]: Verlagsanzeige mit Werkverzeichnis Weberns."
+                ],
+                "writingMaterialString": "",
+                "writingInstruments": {
+                    "main": "",
+                    "secondary": []
+                },
+                "title": "<em>ANTON WEBERN·| DREI GESÄNGE | OP. 23 | AUS | VIAE INVIAE | VON | HILDEGARD JONE</em> auf der vorderen Umschlagseite (S. [a]) sowie auf S. [1];<br /><em>DER DICHTERIN ZUGEEIGNET | DREI GESÄNGE | AUS „VIAE INVIAE“ VON HILDEGARD JONE | I</em> [Mitte] | <em>Anton Webern, Op. 23</em> [rechts] auf S. 2 oben;<br /><em>II</em> auf S. 7 oben Mitte;<br /><em>III</em> auf S. 9 oben Mitte.",
+                "date": "<em>Nr. 123 IV. 1936</em> auf der hinteren Umschlagseite (S. [d]) unter Verlagsanzeige <em>WERKE VON ANTON WEBERN</em> links.",
+                "pagination": "<em>2</em> bis <em>12</em> auf S. 2 bis 12 Außenecken oben.",
+                "measureNumbers": "Taktzahlen zu jedem Takt in I (<em>1</em> bis <em>50</em>), in II (<em>1</em> bis <em>30</em>) und in III (<em>1</em> bis <em>28</em>).",
+                "instrumentation": "<em>Gesang | Klavier</em> auf S. 2 System 1 | 2–3.",
+                "annotations": "<em>UNIVERSAL-EDITION | No. 10.255</em> auf der vorderen Umschlagseite unten;<br /><em>Aufführungsrecht vorbehalten | UNIVERSAL-EDITION | WIEN | Copyright 1936 by Universal-Edition A. G. | Printed in Austria</em> auf S. [1] unten;<br /><em>Copyright 1936 by Universal-Edition</em> [links] <em>Universal-Edition Nr. 10255</em> [Mitte] <em>Aufführungsrecht vorbehalten</em> | <em>Droits d’exécution réservés</em> [rechts] auf S. 2 unten;<br /><em>U. E. 10255</em> auf S. 3–12 unten Mitte;<br /><em>Druck der Waldheim-Eberle A. G.</em> auf S. 12 unten rechts.",
+                "content": [
+                    {
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "Druck von Drei Gesänge aus Viae Inviae von Hildegard Jone op. 23",
+                        "folios": [
+                            {
+                                "folio": "[1]",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "Titelseite.",
+                                "systemGroups": []
+                            }
+                        ]
+                    },
+                    {
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "I „Das dunkle Herz“ M 314: einzige Textfassung",
+                        "folios": [
+                            {
+                                "folio": "2",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "1–3",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "4–6",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "7–8",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "3",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "9–10",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "11–12",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "13–14",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "10–12",
+                                            "measure": "15–16",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "4",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "17–18",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "19–20",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "21–23",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "10–12",
+                                            "measure": "24–26",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "5",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "27–29",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "30–32",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "33–35",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "10–12",
+                                            "measure": "36–38",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "6",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "39–41",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "42–44",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "45–47",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "10–12",
+                                            "measure": "48–50",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "II „Es stürzt aus Höhen Frische“ M 313: einzige Textfassung",
+                        "folios": [
+                            {
+                                "folio": "7",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "1–5",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "6–9",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "10–12",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "10–12",
+                                            "measure": "13–16",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "8",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "17–20",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "21–22",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "23–25",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "10–12",
+                                            "measure": "26–30",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "III „Herr Jesus mein“ M 312: einzige Textfassung",
+                        "folios": [
+                            {
+                                "folio": "9",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "1–2",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "3–4",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "5–6",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "10–12",
+                                            "measure": "7–8",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "10",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "9–10",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "11–12",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "13–14",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "11",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "15–16",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "17–18",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "19–20",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "12",
+                                "isPage": true,
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "21–22",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "23–24",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "25–26",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "10–12",
+                                            "measure": "27–28",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
             "id": "notB",
             "siglum": "",
             "siglumAddendum": "",
@@ -2074,7 +2477,7 @@
             "location": "",
             "description": {
                 "desc": [
-                    "<small class=\"text-muted\">[Die Beschreibung der Quellen <strong>A</strong> sowie <strong>C–D</strong> einschließlich der darin gegebenenfalls enthaltenen Korrekturen erfolgt im Zusammenhang der vollständigen Edition der <em>Drei Gesänge aus</em> Viae Inviae <em>von Hildegard Jone</em> op. 23 in AWG I/5.]</small>"
+                    "<small class=\"text-muted\">[Die Beschreibung der Quellen <strong>C–D</strong> einschließlich der darin gegebenenfalls enthaltenen Korrekturen erfolgt im Zusammenhang der vollständigen Edition der <em>Drei Gesänge aus</em> Viae Inviae <em>von Hildegard Jone</em> op. 23 in AWG I/5.]</small>"
                 ]
             }
         }
