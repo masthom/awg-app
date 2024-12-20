@@ -24,23 +24,23 @@
 <title>cluster_EditionTkaModule</title>
 <polygon fill="none" stroke="black" stroke-dasharray="1,5" points="8,-70 8,-268 760,-268 760,-70 8,-70"/>
 </g>
-<g id="clust7" class="cluster">
-<title>cluster_EditionTkaModule_exports</title>
-<polygon fill="none" stroke="black" points="71,-208 71,-260 696,-260 696,-208 71,-208"/>
-</g>
 <g id="clust6" class="cluster">
 <title>cluster_EditionTkaModule_imports</title>
 <polygon fill="none" stroke="black" points="638,-78 638,-130 752,-130 752,-78 638,-78"/>
+</g>
+<g id="clust7" class="cluster">
+<title>cluster_EditionTkaModule_exports</title>
+<polygon fill="none" stroke="black" points="71,-208 71,-260 697,-260 697,-208 71,-208"/>
 </g>
 <g id="clust2" class="cluster">
 <title>cluster_EditionTkaModule_declarations</title>
 <polygon fill="none" stroke="black" points="16,-78 16,-130 630,-130 630,-78 16,-78"/>
 </g>
-<!-- EditionTkaDescriptionComponent -->
+<!-- EditionTkaEvaluationsComponent -->
 <g id="node1" class="node">
-<title>EditionTkaDescriptionComponent</title>
-<polygon fill="#ffffb3" stroke="black" points="621.64,-122 412.36,-122 412.36,-86 621.64,-86 621.64,-122"/>
-<text text-anchor="middle" x="517" y="-99.8" font-family="Times,serif" font-size="14.00">EditionTkaDescriptionComponent</text>
+<title>EditionTkaEvaluationsComponent</title>
+<polygon fill="#ffffb3" stroke="black" points="622.42,-122 411.58,-122 411.58,-86 622.42,-86 622.42,-122"/>
+<text text-anchor="middle" x="517" y="-99.8" font-family="Times,serif" font-size="14.00">EditionTkaEvaluationsComponent</text>
 </g>
 <!-- EditionTkaModule -->
 <g id="node4" class="node">
@@ -48,11 +48,11 @@
 <polygon fill="#8dd3c7" stroke="black" points="428.04,-187 425.04,-191 404.04,-191 401.04,-187 305.96,-187 305.96,-151 428.04,-151 428.04,-187"/>
 <text text-anchor="middle" x="367" y="-164.8" font-family="Times,serif" font-size="14.00">EditionTkaModule</text>
 </g>
-<!-- EditionTkaDescriptionComponent&#45;&gt;EditionTkaModule -->
+<!-- EditionTkaEvaluationsComponent&#45;&gt;EditionTkaModule -->
 <g id="edge1" class="edge">
-<title>EditionTkaDescriptionComponent&#45;&gt;EditionTkaModule</title>
-<path fill="none" stroke="black" d="M420.23,-122.11C420.23,-122.11 420.23,-140.99 420.23,-140.99"/>
-<polygon fill="black" stroke="black" points="416.73,-140.99 420.23,-150.99 423.73,-140.99 416.73,-140.99"/>
+<title>EditionTkaEvaluationsComponent&#45;&gt;EditionTkaModule</title>
+<path fill="none" stroke="black" d="M420.03,-122.11C420.03,-122.11 420.03,-140.99 420.03,-140.99"/>
+<polygon fill="black" stroke="black" points="416.53,-140.99 420.03,-150.99 423.53,-140.99 416.53,-140.99"/>
 </g>
 <!-- EditionTkaLabelComponent -->
 <g id="node2" class="node">
@@ -78,17 +78,17 @@
 <path fill="none" stroke="black" d="M139.62,-122.02C139.62,-139.37 139.62,-163 139.62,-163 139.62,-163 295.77,-163 295.77,-163"/>
 <polygon fill="black" stroke="black" points="295.77,-166.5 305.77,-163 295.77,-159.5 295.77,-166.5"/>
 </g>
-<!-- EditionTkaDescriptionComponent  -->
+<!-- EditionTkaEvaluationsComponent  -->
 <g id="node6" class="node">
-<title>EditionTkaDescriptionComponent </title>
-<polygon fill="#fb8072" stroke="black" points="687.64,-252 474.36,-252 474.36,-216 687.64,-216 687.64,-252"/>
-<text text-anchor="middle" x="581" y="-229.8" font-family="Times,serif" font-size="14.00">EditionTkaDescriptionComponent </text>
+<title>EditionTkaEvaluationsComponent </title>
+<polygon fill="#fb8072" stroke="black" points="688.92,-252 475.08,-252 475.08,-216 688.92,-216 688.92,-252"/>
+<text text-anchor="middle" x="582" y="-229.8" font-family="Times,serif" font-size="14.00">EditionTkaEvaluationsComponent </text>
 </g>
-<!-- EditionTkaModule&#45;&gt;EditionTkaDescriptionComponent  -->
+<!-- EditionTkaModule&#45;&gt;EditionTkaEvaluationsComponent  -->
 <g id="edge5" class="edge">
-<title>EditionTkaModule&#45;&gt;EditionTkaDescriptionComponent </title>
-<path fill="none" stroke="black" stroke-dasharray="5,2" d="M428.07,-175C480.65,-175 548.12,-175 548.12,-175 548.12,-175 548.12,-205.98 548.12,-205.98"/>
-<polygon fill="black" stroke="black" points="544.63,-205.98 548.12,-215.98 551.63,-205.98 544.63,-205.98"/>
+<title>EditionTkaModule&#45;&gt;EditionTkaEvaluationsComponent </title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M428.24,-175C480.96,-175 548.62,-175 548.62,-175 548.62,-175 548.62,-205.98 548.62,-205.98"/>
+<polygon fill="black" stroke="black" points="545.13,-205.98 548.62,-215.98 552.13,-205.98 545.13,-205.98"/>
 </g>
 <!-- EditionTkaLabelComponent  -->
 <g id="node7" class="node">
@@ -123,8 +123,8 @@
 <!-- SharedModule&#45;&gt;EditionTkaModule -->
 <g id="edge4" class="edge">
 <title>SharedModule&#45;&gt;EditionTkaModule</title>
-<path fill="none" stroke="black" d="M666.68,-122.02C666.68,-139.37 666.68,-163 666.68,-163 666.68,-163 438.37,-163 438.37,-163"/>
-<polygon fill="black" stroke="black" points="438.37,-159.5 428.37,-163 438.37,-166.5 438.37,-159.5"/>
+<path fill="none" stroke="black" d="M667.38,-122.02C667.38,-139.37 667.38,-163 667.38,-163 667.38,-163 438.15,-163 438.15,-163"/>
+<polygon fill="black" stroke="black" points="438.15,-159.5 428.15,-163 438.15,-166.5 438.15,-159.5"/>
 </g>
 </g>
 </svg>
